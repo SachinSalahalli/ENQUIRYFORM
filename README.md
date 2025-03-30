@@ -1,12 +1,28 @@
-# React + Vite
+# 📝 Enquiry Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Enquiry Form** built with **React, Bootstrap, and Vite**. Users can submit their details, edit, or delete their entries, and get real-time notifications using `react-toastify`.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [ENQUIRYFORM](https://sachinsalahalli.github.io/ENQUIRYFORM/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Add and save enquiry details  
+✅ Edit and update existing records  
+✅ Delete unwanted entries  
+✅ Prevent duplicate email/phone entries  
+✅ Instant notifications using `react-toastify`  
+✅ Styled using `React-Bootstrap`  
+✅ Deployed on **GitHub Pages**  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React + Vite
+- **UI Framework:** React-Bootstrap
+- **Notifications:** React-Toastify
+- **Hosting:** GitHub Pages
+
+
