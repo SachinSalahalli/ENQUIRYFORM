@@ -1,12 +1,12 @@
-# 📝 Enquiry Form
+#  Enquiry Form
 
 A simple and responsive **Enquiry Form** built with **React, Bootstrap, and Vite**. Users can submit their details, edit, or delete their entries, and get real-time notifications using `react-toastify`.  
 
-🔗 **Live Demo:** [ENQUIRYFORM](https://sachinsalahalli.github.io/ENQUIRYFORM/)
+Your site is live at : https://sachinsalahalli.github.io/ENQUIRYFORM/
 
----
 
-## 🚀 Features
+
+## Features
 
 ✅ Add and save enquiry details  
 ✅ Edit and update existing records  
@@ -16,9 +16,9 @@ A simple and responsive **Enquiry Form** built with **React, Bootstrap, and Vite
 ✅ Styled using `React-Bootstrap`  
 ✅ Deployed on **GitHub Pages**  
 
----
 
-## 🛠 Tech Stack
+
+## Tech Stack
 
 - **Frontend:** React + Vite
 - **UI Framework:** React-Bootstrap
